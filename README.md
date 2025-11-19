@@ -1,6 +1,3 @@
-# nocodb
-NocoDB -  Plataforma de base de datos - Docker compose
+# NocoDB
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
